@@ -1,7 +1,6 @@
 # sql
 Powered By MrTamfanX Cyber Team v:
 
-Permisi Izin Promosi
 
 _#Jika belum pernah di install silahkan di install dulu_
 
@@ -29,4 +28,4 @@ https://youtu.be/E3IaWV_NNlU
 https://youtu.be/Ptl0RE_uge4
 
 *#Linux#Termux*
-*#izin_share_admin_member*
+
